@@ -28,7 +28,6 @@ void opr();
 //code
 int main()
 {
-    system("color 03");
     homescreen();
 }
 
